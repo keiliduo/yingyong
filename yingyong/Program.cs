@@ -9,7 +9,13 @@ namespace yingyong
     {
         public static void Main(string[] args)
         {
-            Console.Out.WriteLine("this is first console application");
+            var temp = new Program();
+            temp.WriteWord();
+        }
+
+        public void WriteWord()
+        {
+            Console.Out.WriteLine("asdf");
         }
     }
 }

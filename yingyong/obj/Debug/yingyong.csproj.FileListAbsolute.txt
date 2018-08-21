@@ -4,3 +4,9 @@ C:\Users\Tree\source\repos\yingyong\yingyong\obj\Debug\yingyong.csprojAssemblyRe
 C:\Users\Tree\source\repos\yingyong\yingyong\obj\Debug\yingyong.csproj.CoreCompileInputs.cache
 C:\Users\Tree\source\repos\yingyong\yingyong\obj\Debug\yingyong.exe
 C:\Users\Tree\source\repos\yingyong\yingyong\obj\Debug\yingyong.pdb
+C:\Users\Tree\Desktop\Temp\yingyong\yingyong\bin\Debug\yingyong.exe
+C:\Users\Tree\Desktop\Temp\yingyong\yingyong\bin\Debug\yingyong.pdb
+C:\Users\Tree\Desktop\Temp\yingyong\yingyong\obj\Debug\yingyong.csprojAssemblyReference.cache
+C:\Users\Tree\Desktop\Temp\yingyong\yingyong\obj\Debug\yingyong.csproj.CoreCompileInputs.cache
+C:\Users\Tree\Desktop\Temp\yingyong\yingyong\obj\Debug\yingyong.exe
+C:\Users\Tree\Desktop\Temp\yingyong\yingyong\obj\Debug\yingyong.pdb
